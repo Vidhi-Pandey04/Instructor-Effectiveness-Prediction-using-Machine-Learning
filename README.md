@@ -21,6 +21,6 @@ The final model achieved approximately **90% cross-validation accuracy**, with l
 ## Repository Contents
 
 - `instructor_effectiveness_modeling.ipynb` – Complete analysis, modeling, explanations, and conclusions
-- `dataset.csv` – Instructor performance dataset used for the analysis
+- `instructor_effectiveness_dataset_2000_rows.csv` – Instructor performance dataset used for the analysis
 
 All methodology, insights, assumptions, and limitations are documented within the notebook.
